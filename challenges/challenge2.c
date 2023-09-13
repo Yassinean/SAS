@@ -15,7 +15,7 @@ int main(){
     {
         printf("froid :|");
     }
-    else if (C > 10 && C < 27)
+    else if (C >= 10 || C < 27)
     {
         printf("Normale :)");
     }
