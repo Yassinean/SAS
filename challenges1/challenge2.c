@@ -24,9 +24,5 @@ int main(){
         printf("chaud :|");
     }
     else 
-        printf("tres chaud !!");
-    
-    
-    
-    
+        printf("tres chaud !!");    
 }

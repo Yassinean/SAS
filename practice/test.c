@@ -87,8 +87,8 @@ int main() {
     // }
   /*------------------------LES BOUCLES----------------*/
   /*------ Table de multiplication -------------------*/
-  /*
-  int M , i , N;
+  
+  /*int M , i , N;
   printf("Veuillez saisi le nbre que tu veux : ");
   scanf("%d",&M);
    for(i = 0 ; i <= 10 ; i++){
@@ -125,7 +125,7 @@ int main() {
 */
  
  /*------------------------- Exercice boucle -------------------*/
-  int N ;
+  /*int N ;
   printf("Entrer un nbre entre 10 et 20 : ");
   scanf("%d",&N);
   while(N < 10 || N > 20){
@@ -135,9 +135,9 @@ int main() {
     }
     else
       printf("plus petit !");
-    printf("Entrer un nbre entre 10 et 20 : ");
+    printf("\nEntrer un nbre entre 10 et 20 : ");
     scanf("%d",&N);
   }
-  printf("Le nbre que tu as choisis est  : %d", N);
+  printf("Le nbre que tu as choisis est  : %d", N);*/
   return 0;
 }
